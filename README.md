@@ -25,6 +25,9 @@ I like building software that actually solves practical problems — whether tha
 - 🔍 **[Windows Forensics Toolkit](https://github.com/abdelrahmanabuzed-onepice/windows-forensics-toolkit)**  
   Incident response and system audit scripts for Windows environments, security log analysis, and process telemetry.
 
+- ⚡ **[Everyday Dev & SysAdmin Toolkit](https://github.com/abdelrahmanabuzed-onepice/everyday-dev-tools)**  
+  10 practical, zero-dependency Python utilities for Windows cleanup, fastest DNS benchmark, phishing defanging, and automated folder sorting.
+
 ---
 
 ### Tech I Work With
