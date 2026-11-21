@@ -16,6 +16,9 @@ I like building software that actually solves practical problems — whether tha
 
 ### Featured Open Source Projects
 
+- 👑 **[100 Python Automation Arsenal](https://github.com/abdelrahmanabuzed-onepice/100-python-automation-arsenal)**  
+  The ultimate production-grade automation arsenal spanning 10 domains (SysAdmin, Security Recon, Network Protocols, Office/Data, PDF, Web Scraping, Local AI, Storage, Dev Productivity, Media). Includes master interactive CLI.
+
 - 🛡️ **[BugHunter AI](https://github.com/abdelrahmanabuzed-onepice/bughunter-ai)**  
   A desktop workstation for security reconnaissance and vulnerability scanning, powered by local offline AI and a CustomTkinter GUI.
   
